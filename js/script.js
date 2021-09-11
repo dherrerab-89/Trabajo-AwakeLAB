@@ -1,8 +1,9 @@
-prompt("Introduce tu nombre")
+const nombre=prompt("Introduce tu nombre")
 window.alert(`Bienvenid@ a la PTU feliz, ${nombre}`)
 
 
-function generarNuevoColor(){
+
+function newColor(){
 	var simbolos, color;
 	simbolos = "0123456789ABCDEF";
 	color = "#";
