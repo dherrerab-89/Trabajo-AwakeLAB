@@ -18,3 +18,4 @@ function newColor(){
 	document.body.style.background = color;
 	document.getElementById("hexadecimal").innerHTML = color;
 }
+
