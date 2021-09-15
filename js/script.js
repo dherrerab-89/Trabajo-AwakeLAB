@@ -18,5 +18,3 @@ if(nombre === null){
         document.body.style.background = color;
         document.getElementById("hexadecimal").innerHTML = color;
     }
-    
-    
