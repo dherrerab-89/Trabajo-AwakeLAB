@@ -3,19 +3,23 @@ body {
   height: 100%;
   margin: 0;
   font-family: Lato, sans-serif;
-  background-color: rgb(224, 161, 214);
+  background-image: url('https://pbs.twimg.com/media/EVrToN1XYAABH7e?format=jpg&name=small');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
 }
+
 .wrapper {
   text-align: center;
 }
 .time {
-  color: #fff;
+  color:blueviolet;
   font-size: 6em;
 }
 .label {
   font-size: 2em;
   display: block;
-  color: rgb(88, 72, 90);
+  color: rgb(61, 19, 66);
 }
 .bg {
   height: 100vh;
