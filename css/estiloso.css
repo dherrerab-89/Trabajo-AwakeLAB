@@ -1,10 +1,6 @@
-body{
-    background-color:ghostwhite;
-}
-
 .libro{
     background-color:blue;
-    color: cornflowerblue;
+    color: rgb(202, 13, 13);
     font-size: large;
     font-family: cursive;
 }
