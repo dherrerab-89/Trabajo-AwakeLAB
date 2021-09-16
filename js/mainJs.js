@@ -1,10 +1,9 @@
-$(function (){
-     $("button").click(function(){
-        alert("Gracias por estudiar con nosotros");
-    });
+$(function () {
+  $("#estudiar").click(function () {
+    alert("Gracias por estudiar con nosotros");
+  });
 });
 
-$(function (){
-    $("p").css({"background-color" :"pink"});
+$(function () {
+  $("p").css({ "background-color": "pink" });
 });
-
