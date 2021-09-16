@@ -1,11 +1,21 @@
-
 body {
-    background-image: url('https://pbs.twimg.com/media/EVrToN1XYAABH7e?format=jpg&name=small');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size:cover;
-  }
-  .button { 
-    align-items: center;
-
-  }
+  background-image: url("https://pbs.twimg.com/media/EVrToN1XYAABH7e?format=jpg&name=small");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.button {
+  align-items: center;
+}
+h1 {
+  background-color: blueviolet;
+  color: blanchedalmond;
+  font-size: x-large;
+  text-align: center;
+}
+h2 {
+  background-color: rgb(151, 122, 160);
+  color: black;
+  font-size: large;
+  text-align: center;
+}
