@@ -1,13 +1,13 @@
-p{
-    background-color:rgb(187, 241, 241);
-    color: cornflowerblue;
-    font-size:xx-large;
-    font-family: cursive;
-    text-align: center;
+p {
+  background-color: rgb(187, 241, 241);
+  color: cornflowerblue;
+  font-size: xx-large;
+  font-family: cursive;
+  text-align: center;
 }
 body {
-    background-image: url('https://pbs.twimg.com/media/EVrToN1XYAABH7e?format=jpg&name=small');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size:cover;
-  }
+  background-image: url("https://pbs.twimg.com/media/EVrToN1XYAABH7e?format=jpg&name=small");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
