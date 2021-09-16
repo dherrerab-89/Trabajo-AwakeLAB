@@ -1,6 +1,13 @@
-.libro{
-    background-color:blue;
-    color: rgb(202, 13, 13);
-    font-size: large;
+p{
+    background-color:rgb(187, 241, 241);
+    color: cornflowerblue;
+    font-size:xx-large;
     font-family: cursive;
+    text-align: center;
 }
+body {
+    background-image: url('https://pbs.twimg.com/media/EVrToN1XYAABH7e?format=jpg&name=small');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }

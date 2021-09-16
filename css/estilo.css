@@ -1,10 +1,11 @@
-body{
-    background-color:ghostwhite;
-}
 
-.libro{
-    background-color:blue;
-    color: cornflowerblue;
-    font-size: large;
-    font-family: cursive;
-}
+body {
+    background-image: url('https://pbs.twimg.com/media/EVrToN1XYAABH7e?format=jpg&name=small');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .button { 
+    align-items: center;
+
+  }
