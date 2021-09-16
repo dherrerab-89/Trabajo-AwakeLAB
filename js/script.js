@@ -3,7 +3,7 @@ window.alert(`Bienvenid@ a la PTU feliz, ${nombre}`);
 
 
 if(nombre === null){
-    nombre = ' ';
+    nombre = '';
     }
 
     function newColor(){
@@ -14,7 +14,6 @@ if(nombre === null){
         for(var i = 0; i < 6; i++){
             color = color + simbolos[Math.floor(Math.random() * 16)];
         }
-    
         document.body.style.background = color;
-        document.getElementById("hexadecimal").innerHTML = color;
+        
     }
